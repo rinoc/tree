@@ -19,7 +19,7 @@ import {
   parseCheckedKeys,
   conductExpandParent,
   calcSelectedKeys,
-  calcDropPosition,
+  calcDropPositionCustom as calcDropPosition,
   arrAdd,
   arrDel,
   posToArr,
